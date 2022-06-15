@@ -1,12 +1,3 @@
----
-
-layout: wide
-search: true
-
-title: FinOps Glossary Related to Containers
-description: A glossary of FinOps concepts and terminology related and surrounding containers.
-
----
 
 # Container Glossary 
 
